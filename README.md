@@ -8,7 +8,6 @@ Welcome to the **Starter Prompts for v0 Projects** repository! This repo collect
 
 ```
 /prompts/                   # Root folder for all prompt files
-  /v0/                      # Version 0 initial prompts
     /project-a/             # Prompts and assets for Project A
       ├── readme.md         # Starter prompt stored in Markdown
       ├── attachments.zip   # Supporting assets provided as a zip archive
